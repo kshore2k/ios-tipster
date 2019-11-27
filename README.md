@@ -9,4 +9,4 @@ Simple application for generating gratuity (tip) from total $ amount. Allows for
 ## Technologies
 - **Swift iOS**
 ### Preview
-![alt text](./iOsTipster.png "iOS Tipster")
+<img src="./iOsTipster.png" width="300" alt="Tipster" />
